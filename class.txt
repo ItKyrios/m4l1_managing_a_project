@@ -1,7 +1,6 @@
 Crimson
 Orange
 Green
-Cyan
 Yellow
 Ivory
 Khaki
@@ -11,3 +10,9 @@ Fuchisa
 Gray
 Brown
 Red
+Violet
+
+This is a rigoursly updated filr to encounter the graded assingmrnt.
+The assignemnt specified repo is not working. 
+Forked a sampke repository.
+****************
